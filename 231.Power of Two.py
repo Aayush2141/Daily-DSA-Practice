@@ -13,7 +13,6 @@ class Solution:
         for i in st:
             if i=="1":
                 count+=1
-            
         if count>1:
             return False
         else:
