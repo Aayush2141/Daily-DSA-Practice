@@ -8,7 +8,6 @@ class Solution:
             a=n%2
             st+=str(a)
             n//=2
-            
         count=0
         for i in st:
             if i=="1":
