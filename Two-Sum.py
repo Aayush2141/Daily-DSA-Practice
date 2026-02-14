@@ -5,5 +5,4 @@ class Solution:
                 if nums[i]+nums[j]==target:
                     return [i,j]
         return []
-       
         
